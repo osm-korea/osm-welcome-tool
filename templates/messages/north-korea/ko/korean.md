@@ -1,6 +1,6 @@
 ---
-name: Korean version
-title: 오픈스트리트맵에 오신 것을 환영합니다.
+name: Default
+title: 오픈스트리트맵에 기여해 주셔서 고맙습니다.
 ---
 
 {{ mapper.displayName }} 님, 안녕하십니까?
@@ -11,6 +11,7 @@ title: 오픈스트리트맵에 오신 것을 환영합니다.
 
 실수한 것 같거나, 매핑하는 방법을 잘 모르거나, 오픈스트리트맵에 대해 더 자세히 알고 싶으시면 주저없이 문의해 주세요. 초보자의 질문을 환영하는 [디스코드 채팅방](https://discord.gg/q6HnfNZ)이 있습니다. 이 메시지에 답장하여 저에게 연락하거나 [다른 채널]( https://wiki.openstreetmap.org/wiki/North_Korea_Mapping_Guide#Community)을 찾아 보실 수도 있습니다. 
 만약 한국말/조선말에 능통하시다면 [한국/조선 텔레그램 사랑방](https://t.me/OSMKorea)에서 도움을 받을 수도 있습니다.(조선 관련 방이 따로 마련되어 있습니다.)
+아울러, 한국(남한) 지역을 편집하실 생각이 있으시다면 한말글/조선말 사용자를 위한 [첫 걸음](https://wiki.openstreetmap.org/wiki/Ko:첫_걸음) 문서를 읽어보시면 큰 도움이 될 것입니다.
 
 시작하는 데 도움이 될 몇 가지 도움말을 알려드리겠습니다:
 
